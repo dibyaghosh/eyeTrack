@@ -21,12 +21,12 @@ actions yet. The code between blinking and gaze tracking is not integrated, and 
 * Install the OpenCV libraries for C++
 
 ### Blinking
-* Install OpenCV Python library
-	** pip install opencv
-* Install scientific analysis tools (not necessary, but speeds them up)
-    	** pip install numpy
-	** pip install scipy
-	** pip install matplotlib
+1. Install OpenCV Python library
+ * pip install opencv
+ * Install scientific analysis tools (not necessary, but speeds them up)
+2. pip install numpy
+	* pip install scipy
+	* pip install matplotlib
 
 
 
